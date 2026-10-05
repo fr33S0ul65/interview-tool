@@ -1,0 +1,9 @@
+# Lecture 386: keep the API key out of GitHub
+.streamlit/secrets.toml
+
+# Python / editor clutter
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
